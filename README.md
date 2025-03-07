@@ -39,9 +39,10 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 
 ---
 
-## 🌍 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLQO)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JLQO/)  
+## Table of Contents
+- [How to Create Your Profile?](how-to-create-your-profile)
+- [How to Customize Markdown files?](how-to-customize-markdown-files)
+- [How to Create New Repository?](how-to-create-new-repository)
 
 ---
 
