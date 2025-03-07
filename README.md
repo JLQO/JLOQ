@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 
 ## 📌 Projects  
 🚧 **Upcoming:** A **Checkers Game** built with Java (Coming soon!)  
+🚧 **Upcoming:** A **Discord Bot** built with Java (Coming soon!)  
 
 ---
 
