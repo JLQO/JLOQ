@@ -54,7 +54,7 @@ The task involves cleaning salary estimates, categorizing job roles, handling mi
 ---
 
 ## 📸 Before Cleaning (Raw Dataset)
-👉 ![Raw Dataset](https://raw.githubusercontent.com/JLQO/JLQO/main/Uncleaned.jpg)
+👉 ![Raw Dataset](Uncleaned.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ The task involves cleaning salary estimates, categorizing job roles, handling mi
 ---
 
 ## 📌 Final Output
-👉 ![Cleaned Dataset](https://raw.githubusercontent.com/JLQO/JLQO/main/Cleaned.jpg)
+👉 ![Cleaned Dataset](Cleaned.jpg)
 
 ---
 
