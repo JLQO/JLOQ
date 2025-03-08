@@ -112,7 +112,8 @@ The task involves cleaning salary estimates, categorizing job roles, handling mi
 ---
 
 ## 📝 Power Query M Code
-```plaintext
+{% raw %}
+```powerquery
 let
     Source = Csv.Document(File.Contents("C:\Users\COMLAB\Downloads\Uncleaned_DS_jobs.csv"),[Delimiter=",", Columns=15, Encoding=1252, QuoteStyle=QuoteStyle.Csv]),
     #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
@@ -154,8 +155,7 @@ else [Location]),
 in
     #"Filtered Rows"
 ```
-
-
+{% endraw %}
 ---
 
 ## 📢 Submission & Repository Details
