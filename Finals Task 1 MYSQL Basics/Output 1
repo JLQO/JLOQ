@@ -1,0 +1,39 @@
+CREATE DATABASE	Event_Management;
+USE Event_Management;
+
+
+-- 1. create events table with id and name fields.
+CREATE TABLE events_tbl (
+event_id INT UNIQUE AUTO_INCREMENT PRIMARY KEY,
+event_name VARCHAR (255) NOT NULL
+);
+DESCRIBE events_tbl;
+
+
+-- 2 create attendees table with id and name fields.
+CREATE TABLE attendees_tbl (
+attendees_id INT UNIQUE AUTO_INCREMENT PRIMARY KEY,
+attendees_name VARCHAR (255) NOT NULL
+);
+DESCRIBE attendees_tbl;
+
+
+-- 3. create event attendees table with both events & attendees id fields.
+CREATE TABLE event_attendees_tbl(
+event_id INT,
+FOREIGN KEY (event_id) REFERENCES events_tbl(event_id),
+attendees_id INT,
+FOREIGN KEY (attendees_id) REFERENCES attendees_tbl(attendees_id),
+PRIMARY KEY (event_id, attendees_id)
+);
+DESCRIBE event_attendees_tbl;
+
+
+-- 4. create event sponsors table with id, name, and event id.
+CREATE TABLE event_sponsors_tbl (
+sponsor_id INT UNIQUE AUTO_INCREMENT PRIMARY KEY,
+event_id INT,
+FOREIGN KEY (event_id) REFERENCES events_tbl(event_id),
+sponsor_name VARCHAR(255) NOT NULL
+);
+DESCRIBE event_sponsors_tbl;
