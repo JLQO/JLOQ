@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 ---
 
 ## 📌 Finals Tasks
-[Finals Task 1 - MySQL Basics](./Finals%20Task%201%20MYSQL%20Basics)
-[Finals Task 2 - MySQL Basics](./Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
+- [Finals Task 1 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%201%20MYSQL%20Basics)
+- [Finals Task 2 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
 
 
 # Midterm Lab Task 2 - Data Cleaning and Transformation using Power Query
