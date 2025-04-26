@@ -1,0 +1,29 @@
+CREATE DATABASE table_manipulation_db;
+USE table_manipulation_db;
+
+CREATE TABLE products(
+product_id INT AUTO_INCREMENT PRIMARY KEY UNIQUE,
+product_name VARCHAR(100) NOT NULL,
+price DECIMAL(10,2),
+CONSTRAINT price_check CHECK (price>0)
+);
+
+INSERT INTO products (product_name, price)
+VALUES 
+('Laptop', 999.99),
+('Headphones', 49.99),
+('Smartphone', 599.99),
+('Tablet', 299.99),
+('Monitor', 149.99),
+('Keyboard', 19.99),
+('Mouse', 14.99),
+('Desk Lamp', 24.99),
+('External Hard Drive', 79.99),
+('Speakers', 9.99);
+
+SELECT * FROM products;
+
+ALTER TABLE products
+MODIFY COLUMN product_name VARCHAR(120);
+
+
