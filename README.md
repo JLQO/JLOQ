@@ -1,5 +1,5 @@
 # JLOQ
-[JLQO Profile Pic](profile.jpg)
+![JLQO Profile Pic](profile.jpg)
 # 👋 Hello, I'm JLQO  
 
 Welcome to my GitHub profile! I'm a passionate developer currently learning new technologies and working on exciting projects.  
