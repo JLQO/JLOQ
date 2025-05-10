@@ -1,5 +1,5 @@
 # JLOQ
-<img src="profile.jpg alt="JLQO Profile Picture width="200"/>
+[JLQO Profile Pic](profile.jpg)
 # 👋 Hello, I'm JLQO  
 
 Welcome to my GitHub profile! I'm a passionate developer currently learning new technologies and working on exciting projects.  
