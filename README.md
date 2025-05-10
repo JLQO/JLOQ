@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 ---
 
 ## 📌 Midterm Tasks
-- [Midterm Task 1]()
+- [Midterm Task 1](https://github.com/JLQO/JLOQ/tree/main/Midterm%20Task%201)
 - [Midterm Task 2](https://github.com/JLQO/JLOQ/tree/main/Midterms%20task%202)
-- [Midterm Task 3]() 
+- [Midterm Task 3](https://github.com/JLQO/JLOQ/tree/main/Midterm%20Task%203) 
 
 ---
 ## 📌 Finals Tasks
