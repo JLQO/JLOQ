@@ -1,4 +1,4 @@
-# Midterm Lab Task 2 - Data Cleaning and Transformation using Power Query
+
 
 ## 📌 Task Description
 Company X wants to extract useful insights from the `Uncleaned_DS_jobs.csv` dataset from Kaggle. The dataset requires cleaning and transformation to answer the following questions:
@@ -15,11 +15,6 @@ The task involves cleaning salary estimates, categorizing job roles, handling mi
 - **Dataset Name:** `Uncleaned_DS_jobs.csv`
 - **Source:** Kaggle
 - **Loaded in:** Power Query (Excel)
-
----
-
-## 📸 Before Cleaning (Raw Dataset)
-👉 ![Raw Dataset](Uncleaned.jpg)
 
 ---
 
