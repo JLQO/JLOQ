@@ -1,4 +1,5 @@
 # JLOQ
+<img src="profile.jpg alt="JLQO Profile Picture width="200"/>
 # 👋 Hello, I'm JLQO  
 
 Welcome to my GitHub profile! I'm a passionate developer currently learning new technologies and working on exciting projects.  
@@ -45,10 +46,3 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 - [Finals Task 3 - Table Manipulation](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%203.%20Table%20Manipulation)
 
 ---
-
-## 📢 Submission & Repository Details
-- **Repository Name:** `Midterm-Lab-PowerQuery`
-- **Submission:** Uploaded to **GitHub Portfolio** with all required documentation.
-
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=JLQO&label=Profile+Views&color=blue&style=plastic)  
