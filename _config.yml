@@ -1,11 +1,4 @@
 title: JLQO
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-primer
 logo: /profile.jpg
-
-author:
-  name: JLQO
-  avatar: /profile.jpg
-
-minimal_mistakes_skin: contrast
 show_downloads: true
-
