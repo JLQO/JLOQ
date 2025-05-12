@@ -37,12 +37,11 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 - [Midterm Task 1](https://github.com/JLQO/JLOQ/tree/main/Midterm%20Task%201)
 - [Midterm Task 2](https://github.com/JLQO/JLOQ/tree/main/Midterms%20task%202)
 - [Midterm Task 3](https://github.com/JLQO/JLOQ/tree/main/Midterm%20Task%203) 
-
 ---
 ## 📌 Finals Tasks
 - [Finals Task 1 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%201%20MYSQL%20Basics)
 - [Finals Task 2 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
 - [Finals Task 3 - Table Manipulation](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%203.%20Table%20Manipulation)
 - [Finals Task 4 - Using SELECT Statement](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%204.%20Using%20SELECT%20Statement)
-
+- [Finals Task 5 - Using Stored PRocedures Views and Function](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%205.%20Using%20Stored%20PRocedures%20Views%20and%20Function)
 ---
