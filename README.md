@@ -43,5 +43,6 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 - [Finals Task 1 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%201%20MYSQL%20Basics)
 - [Finals Task 2 - MySQL Basics](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
 - [Finals Task 3 - Table Manipulation](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%203.%20Table%20Manipulation)
+- [Finals Task 4 - Using SELECT Statement](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%204.%20Using%20SELECT%20Statement)
 
 ---
