@@ -46,5 +46,6 @@ Welcome to my GitHub profile! I'm a passionate developer currently learning new 
 - [Finals Task 3 - Table Manipulation](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%203.%20Table%20Manipulation)
 - [Finals Task 4 - Using SELECT Statement](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%204.%20Using%20SELECT%20Statement)
 - [Finals Task 5 - Using Stored Procedures, Views, and Functions](https://github.com/JLQO/JLOQ/tree/main/Finals%20Task%205.%20Using%20Stored%20PRocedures%20Views%20and%20Function)
+- [Finals Practice Task - MongoDB](https://github.com/JLQO/JLOQ/tree/main/Finals%20Practice%20Task%20MongoDB)
 
 ---
